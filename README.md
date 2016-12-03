@@ -1,5 +1,11 @@
 # Data Science and the Nations Event Data
 Data used during the event [Data Science meets the Nations](https://www.facebook.com/events/1804163043167931/).
+## Requirements
+Please make sure that you have *Python* and *pip* are installed on your machine.
+It would be good to have some libraries to manipulate and analyse data like _numpy_, _scipy_, _scikit-learn_ and _matplotlib_.
+Once you have *pip* installed you can install a library by doing:
+```pip install library-name```
+
 ## Data Structure
 All the data is stored in CSV format.
 ### Uplands Nation Event Attendance Data
