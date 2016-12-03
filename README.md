@@ -52,4 +52,5 @@ The [assortativity](https://en.wikipedia.org/wiki/Assortativity) of this graph i
 We also take a look at [betweenness](https://en.wikipedia.org/wiki/Betweenness_centrality) and degree centralities to check if we can find interesting people. We find that people who work at Uplands have very high centralities. Surprisingly we also find that a person who has a very high betweenness while having a low degree centrality. This type of people is usually (in a real life graph) considered as very interesting because while the person is not popular in the sense that they do not have a huge number of connections (deduced from their degree) the person still has a very high influence (a high betweenness implies that if the person disappears the people are going to be less connected in some sense).
 
 For even more cool stuff, [subscribe to my mailing list here](www.ismail.land/subscribe.html):
+
 http://ismail.land/subscribe.html
